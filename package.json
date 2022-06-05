@@ -1,7 +1,7 @@
 {
   "name": "design-system-storybook",
   "description": "Storybook design systems - Betika",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "license": "MIT",
   "repository": "https://github.com/Jchegenye/design-system-storybook",
   "private": true,
