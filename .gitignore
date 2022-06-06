@@ -7,7 +7,7 @@
 storybook-static
 
 # production
-/build
+dist
 .env
 
 # misc

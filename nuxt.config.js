@@ -2,7 +2,7 @@ export default {
 	// Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
 	ssr: false,
 	//
-	components: true,
+	components: false,
 	//
 	storybook: {
 		addons: [
@@ -17,4 +17,13 @@ export default {
 	 ** Plugins to load before mounting the App
 	 */
 	plugins: ["~/plugins/stories.js"],
+	//css: ["~/components/Button/button.css"],
+	// module: {
+	// 	rules: [
+	// 		{
+	// 			test: /\.(scss|css)$/,
+	// 			use: ["style-loader", "css-loader", "sass-loader", "postcss-loader"],
+	// 		},
+	// 	],
+	// },
 };
