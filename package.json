@@ -20,5 +20,5 @@
 		"auto": "^10.37.1",
 		"prettier": "^2.6.2"
 	},
-	"main": "plugins/stories.js"
+	"main": "dist/index.js"
 }

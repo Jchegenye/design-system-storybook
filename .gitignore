@@ -20,3 +20,4 @@ yarn-error.log*
 
 #files
 yarn.lock
+package-lock.json
