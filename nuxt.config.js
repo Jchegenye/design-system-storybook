@@ -17,13 +17,4 @@ export default {
 	 ** Plugins to load before mounting the App
 	 */
 	plugins: ["~/plugins/stories.js"],
-	//css: ["~/components/Button/button.css"],
-	// module: {
-	// 	rules: [
-	// 		{
-	// 			test: /\.(scss|css)$/,
-	// 			use: ["style-loader", "css-loader", "sass-loader", "postcss-loader"],
-	// 		},
-	// 	],
-	// },
 };

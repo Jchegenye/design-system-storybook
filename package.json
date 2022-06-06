@@ -22,5 +22,5 @@
 		"prettier": "^2.6.2",
 		"sass-loader": "^13.0.0"
 	},
-	"main": "dist/index.js"
+	"main": "plugins/stories.js"
 }
